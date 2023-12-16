@@ -14,3 +14,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+.TableBodyStyle {
+  @apply py-5 px-2  ;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
