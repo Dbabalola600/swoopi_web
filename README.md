@@ -10,7 +10,7 @@
 
 
 ## Issues faced
-
+- dynamic display of images (this can be fixed if images were being delivered by an api endpoint)
 
 
 ## Running  
